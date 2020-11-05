@@ -7,6 +7,7 @@ public class App {
 
         for(String arg: args){
             System.out.println((int)arg.charAt(0) - '0');
+            System.out.println((int)arg.charAt(0) - '0');
         }
     }
 }
